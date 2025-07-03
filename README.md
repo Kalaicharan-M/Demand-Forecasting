@@ -1,4 +1,5 @@
 ⚫Car Sale Demand Forecasting using XGBoost Regression
+
 This project aims to accurately **forecast car sale demand** using historical data and advanced machine learning techniques. The core model used is **XGBoost Regressor**, a powerful ensemble algorithm known for its efficiency and accuracy in regression problems.
 Predict the future **demand for car sales** based on historical trends. Accurate demand forecasting helps automotive companies optimize inventory, improve planning, and boost profitability.
 Model Used
@@ -13,7 +14,7 @@ Model Used
 - Matplotlib & Seaborn(for visualization)
 - Jupyter Notebook
 
----
+
 
 ⚫Key Features Engineered
 
@@ -31,12 +32,11 @@ Model Used
 
 - Hyperparameter Tuning:
   - Used `GridSearchCV` with 5-fold cross-validation to optimize learning rate, max depth, and number of estimators
-  - 
- ⚫ Results
+  
+⚫ Results
 
 - Forecast error reduced significantly using engineered features and hyperparameter tuning.
 - Achieved a low RMSE and high R² score (indicating good model fit).
-
 
 ⚫Visualizations
 
